@@ -1,3 +1,8 @@
+## 🚀 ¡Movido a Codeberg!
+Nueva ubicación: https://codeberg.org/daskashk/deb_installer.sh
+
+
+
 # Instalador de Paquetes .deb
 Un script de Bash simple para instalar paquetes .deb descargados localmente.
 
